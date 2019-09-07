@@ -1,0 +1,25 @@
+{
+  "name": "antispam.js",
+  "version": "4.0.0",
+  "description": "Discord antispam module to protect your server from raiders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "XENO",
+  "keywords": [
+    "discord-anitspam",
+    "antispam.js",
+    "discord-antispam",
+    "discord antispam module"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SOLENO-API/antispam.js.git"
+  }
+}
