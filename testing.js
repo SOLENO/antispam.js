@@ -23,4 +23,4 @@ client.on('message', msg => {
 
   })
   
-client.login('NjEzNzQ2Nzg3MTQ0MTcxNTM5.XXKu1Q.cXbXtVlOr3ChD_14OXhijpDjxqw');
+client.login('TOKENHERE');
