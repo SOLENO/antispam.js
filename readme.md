@@ -1,5 +1,5 @@
 # antispam.js
-Discord antispam module to protect your server from raiders.
+Discord antispam module to protect your server from raiders. It is the updated and better version of antispam module.
 
 ## Installation
 <p align="center"><a href="https://nodei.co/npm/antispam.js/"><img src="https://nodei.co/npm/antispam.js.png"></a></p>
